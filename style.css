@@ -1,0 +1,28 @@
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    background-color: yellow;
+    font: 15;
+    }
+
+    img:hover{
+        border-radius: 140px;
+    }
+    
+    h1{
+        font: 20;
+    }
+
+    h4{
+        color: blue;
+    }
+
+    img{
+        width: 20%;
+        align-items: center;
+    }
+    body{
+        background-color: aqua;
+    }
